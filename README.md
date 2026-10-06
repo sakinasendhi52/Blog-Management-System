@@ -324,7 +324,7 @@ When the administrator deletes a blog:
 
 ---
 
-## 💻 Search, Sort, Filter & Pagination
+## 🔄 Search, Sort, Filter & Pagination
 
 ### Search
 
