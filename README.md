@@ -544,35 +544,27 @@ The design uses:
 
 ### Home
 
-*Add Home page screenshot here.*
+<img src="public/output/home.jpeg" width="800" alt="Home Page">
 
 ### Blog List
 
-*Add Blog List screenshot here.*
+<img src="public/output/blogs.jpeg" width="800" alt="Blogs">
 
 ### Blog Details
 
-*Add Blog Details screenshot here.*
+<img src="public/output/single-blog.jpeg" width="800" alt="Single Blog">
 
 ### Add Blog
 
-*Add Add Blog screenshot here.*
+<img src="public/output/add-blog.jpeg" width="800" alt="Add Blog">
 
 ### Edit Blog
 
-*Add Edit Blog screenshot here.*
+<img src="public/output/edit-blog.jpeg" width="800" alt="Edit Blog">
 
 ### Dashboard
 
-*Add Dashboard screenshot here.*
-
-### Search / Sort / Pagination
-
-*Add Search, Sort and Pagination screenshot here.*
-
-### CRUD
-
-*Add CRUD functionality screenshot here.*
+<img src="public/output/dashboard.jpeg" width="800" alt="Dashboard">
 
 ---
 
