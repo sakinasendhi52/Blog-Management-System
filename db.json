@@ -189,7 +189,6 @@
       "status": "Published"
     },
     {
-      "id": "12",
       "title": "Form Validation in React",
       "author": "Anjali",
       "email": "anjali@example.com",
@@ -199,11 +198,11 @@
       "content": "Form validation helps ensure that users provide correct and complete information. React state and event handlers can be used to build controlled forms with custom validation.",
       "tags": [
         "React",
-        "Forms",
-        "Validation"
+        "Forms"
       ],
       "publishDate": "2026-07-29",
-      "status": "Published"
+      "status": "Published",
+      "id": "12"
     },
     {
       "id": "13",
@@ -240,21 +239,37 @@
       "status": "Published"
     },
     {
-      "id": "15",
-      "title": "Understanding React Router",
-      "author": "Sakina",
-      "email": "sakina@example.com",
-      "category": "Technology",
-      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
-      "description": "Learn how React Router is used to create multiple pages in a React application.",
-      "content": "React Router allows developers to create client-side routes in React applications. It supports navigation between pages, dynamic routes, URL parameters, and nested routing.",
+      "title": "Graphics",
+      "author": "Liana",
+      "email": "Liana@gmail.com",
+      "category": "Web Development",
+      "image": "https://images.pexels.com/photos/36730527/pexels-photo-36730527.jpeg",
+      "description": "This fields has so much to offer.",
+      "content": "Thank you for choosing this blog.",
       "tags": [
-        "React",
-        "Router",
-        "Routing"
+        "JavaScript",
+        "Web Development"
       ],
-      "publishDate": "2026-07-05",
-      "status": "Published"
+      "publishDate": "2026-10-08",
+      "status": "Draft",
+      "id": "5HLAlMxr_28"
+    },
+    {
+      "title": "Human lifestyle",
+      "author": "Sofia",
+      "email": "sofia@gmail.com",
+      "category": "Lifestyle",
+      "image": "https://images.pexels.com/photos/8455748/pexels-photo-8455748.jpeg",
+      "description": "Healthy Lifestyle is important for every human.",
+      "content": "Healthy Lifestyle is important for every human and to make that happen we should all work on it.",
+      "tags": [
+        "Lifestyle",
+        "Healthy"
+      ],
+      "publishDate": "2026-10-06",
+      "status": "Published",
+      "id": "ngfzVwgII9o"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
