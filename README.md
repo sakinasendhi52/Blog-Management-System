@@ -572,9 +572,9 @@ The design uses:
 
 |                        |                                    |
 | ---------------------- | ---------------------------------- |
-| 🔗 Live Demo           | Add your deployed project link     |
-| 💻 GitHub Repository   | Add your GitHub repository link    |
-| 🎥 Project Explanation | Add your project explanation video |
+| 🔗 Live Demo           | [Blog Management Website](https://blog-management-website.netlify.app/)     |
+| 💻 Project Video | [Blog Website Recording](https://drive.google.com/file/d/1eCjIPuZbv4TaAToJyPmWJZUgWiXq4hhH/view?usp=sharing)    |
+| 🎥 Project Explanation | [Blog Website Explanation](https://drive.google.com/file/d/1J8ZybwAQ_ITJRvAhLHb8nEfHDFpK6y79/view?usp=sharing) |
 
 ---
 
