@@ -16,12 +16,12 @@
 * [Technologies Used](#-technologies-used)
 * [React Concepts Covered](#-react-concepts-covered)
 * [How It Works](#-how-it-works)
+* [Search Sort Filter Pagination](#-search-sort-filter-pagination)
+* [Form Validation](#-form-validation)
+* [CRUD Operations](#-crud-operations)
 * [Project Flow](#-project-flow)
 * [Project Structure](#-project-structure)
-* [CRUD Operations](#-crud-operations)
-* [Search Sort Filter Pagination](#-search-sort-filter-pagination)
 * [Dashboard](#-dashboard)
-* [Form Validation](#-form-validation)
 * [Screenshots](#-screenshots)
 * [Demo](#-demo)
 * [Author](#-author)
@@ -572,7 +572,7 @@ The design uses:
 
 |                        |                                    |
 | ---------------------- | ---------------------------------- |
-| 🔗 Live Demo           | [Blog Management Website](https://blog-management-website.netlify.app/)     |
+| 🔗 Live Demo           | [Blog Management Website](https://blog-management-website-project.netlify.app/)     |
 | 💻 Project Video | [Blog Website Recording](https://drive.google.com/file/d/1eCjIPuZbv4TaAToJyPmWJZUgWiXq4hhH/view?usp=sharing)    |
 | 🎥 Project Explanation | [Blog Website Explanation](https://drive.google.com/file/d/1J8ZybwAQ_ITJRvAhLHb8nEfHDFpK6y79/view?usp=sharing) |
 
