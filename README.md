@@ -572,7 +572,7 @@ The design uses:
 
 |                        |                                    |
 | ---------------------- | ---------------------------------- |
-| 🔗 Live Demo           | [Blog Management Website](https://blog-management-website-project.netlify.app/)     |
+| 🔗 Live Demo           | [Blog Management Website](https://6ac4fb627bb5e700d37644e8--blog-management-website-project.netlify.app)     |
 | 💻 Project Video | [Blog Website Recording](https://drive.google.com/file/d/1eCjIPuZbv4TaAToJyPmWJZUgWiXq4hhH/view?usp=sharing)    |
 | 🎥 Project Explanation | [Blog Website Explanation](https://drive.google.com/file/d/1J8ZybwAQ_ITJRvAhLHb8nEfHDFpK6y79/view?usp=sharing) |
 
