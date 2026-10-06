@@ -69,7 +69,6 @@
       "status": "Published"
     },
     {
-      "id": "5",
       "title": "React Hooks Explained",
       "author": "Arjun",
       "email": "arjun@example.com",
@@ -84,7 +83,8 @@
         "useEffect"
       ],
       "publishDate": "2026-09-10",
-      "status": "Published"
+      "status": "Draft",
+      "id": "5"
     },
     {
       "id": "6",
