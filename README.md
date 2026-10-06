@@ -22,6 +22,7 @@
 * [Project Flow](#-project-flow)
 * [Project Structure](#-project-structure)
 * [Dashboard](#-dashboard)
+* [UI Design](#-ui-design)
 * [Screenshots](#-screenshots)
 * [Demo](#-demo)
 * [Author](#-author)
@@ -323,7 +324,7 @@ When the administrator deletes a blog:
 
 ---
 
-## 🔍 Search, Sort, Filter & Pagination
+## 💻 Search, Sort, Filter & Pagination
 
 ### Search
 
@@ -412,7 +413,7 @@ Axios is used to communicate with the JSON Server REST API.
 
 ---
 
-## 🗺️ Project Flow
+## 📂 Project Flow
 
 ```text
                     Blog Management System
@@ -578,7 +579,7 @@ The design uses:
 
 ---
 
-## 👩‍💻 Author
+## 💻 Author
 
 <div align="center">
 
