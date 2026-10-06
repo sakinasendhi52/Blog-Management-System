@@ -16,7 +16,6 @@
 * [Technologies Used](#-technologies-used)
 * [React Concepts Covered](#-react-concepts-covered)
 * [How It Works](#-how-it-works)
-* [Search Sort Filter Pagination](#-search-sort-filter-pagination)
 * [Form Validation](#-form-validation)
 * [CRUD Operations](#-crud-operations)
 * [Project Flow](#-project-flow)
@@ -324,7 +323,7 @@ When the administrator deletes a blog:
 
 ---
 
-## 🔄 Search, Sort, Filter & Pagination
+## 🔍 Search, Sort, Filter & Pagination
 
 ### Search
 
